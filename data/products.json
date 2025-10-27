@@ -1,0 +1,422 @@
+[
+  {
+    "id": "1",
+    "name": "Echo Wireless Headphones",
+    "slug": "echo-wireless-headphones",
+    "description": "Comfortable wireless headphones with active noise cancellation.",
+    "price": 24,
+    "category": "audio",
+    "inventory": 25,
+    "lastUpdated": "2025-10-27T20:28:36.429Z"
+  },
+  {
+    "id": "2",
+    "name": "Nimbus Running Shoes",
+    "slug": "nimbus-running-shoes",
+    "description": "Lightweight running shoes for everyday training.",
+    "price": 79.5,
+    "category": "footwear",
+    "inventory": 8,
+    "lastUpdated": "2025-10-28T11:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Atria Smartwatch",
+    "slug": "atria-smartwatch",
+    "description": "Water-resistant smartwatch with fitness tracking.",
+    "price": 149,
+    "category": "wearables",
+    "inventory": 3,
+    "lastUpdated": "2025-10-28T09:45:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Gaming Mouse Pro",
+    "slug": "gaming-mouse-pro",
+    "description": "High-precision gaming mouse with RGB lighting.",
+    "price": 59.99,
+    "category": "electronics",
+    "inventory": 45,
+    "lastUpdated": "2025-10-28T08:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Mechanical Keyboard",
+    "slug": "mechanical-keyboard",
+    "description": "RGB mechanical keyboard with blue switches.",
+    "price": 129.99,
+    "category": "electronics",
+    "inventory": 32,
+    "lastUpdated": "2025-10-28T07:15:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Bluetooth Speaker",
+    "slug": "bluetooth-speaker",
+    "description": "Portable waterproof Bluetooth speaker with 360° sound.",
+    "price": 49.99,
+    "category": "audio",
+    "inventory": 18,
+    "lastUpdated": "2025-10-28T06:30:00.000Z"
+  },
+  {
+    "id": "7",
+    "name": "Yoga Mat Premium",
+    "slug": "yoga-mat-premium",
+    "description": "Non-slip eco-friendly yoga mat with carrying strap.",
+    "price": 34.99,
+    "category": "fitness",
+    "inventory": 50,
+    "lastUpdated": "2025-10-28T05:45:00.000Z"
+  },
+  {
+    "id": "8",
+    "name": "Coffee Maker Deluxe",
+    "slug": "coffee-maker-deluxe",
+    "description": "Programmable coffee maker with thermal carafe.",
+    "price": 89.99,
+    "category": "home",
+    "inventory": 12,
+    "lastUpdated": "2025-10-28T04:00:00.000Z"
+  },
+  {
+    "id": "9",
+    "name": "LED Desk Lamp",
+    "slug": "led-desk-lamp",
+    "description": "Adjustable LED desk lamp with USB charging port.",
+    "price": 39.99,
+    "category": "home",
+    "inventory": 28,
+    "lastUpdated": "2025-10-28T03:15:00.000Z"
+  },
+  {
+    "id": "10",
+    "name": "Backpack Travel Pro",
+    "slug": "backpack-travel-pro",
+    "description": "Durable travel backpack with laptop compartment.",
+    "price": 69.99,
+    "category": "bags",
+    "inventory": 22,
+    "lastUpdated": "2025-10-28T02:30:00.000Z"
+  },
+  {
+    "id": "11",
+    "name": "Wireless Earbuds",
+    "slug": "wireless-earbuds",
+    "description": "True wireless earbuds with noise cancellation.",
+    "price": 79.99,
+    "category": "audio",
+    "inventory": 40,
+    "lastUpdated": "2025-10-28T01:45:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "Fitness Tracker Band",
+    "slug": "fitness-tracker-band",
+    "description": "Smart fitness band with heart rate monitoring.",
+    "price": 49.99,
+    "category": "wearables",
+    "inventory": 35,
+    "lastUpdated": "2025-10-27T23:00:00.000Z"
+  },
+  {
+    "id": "13",
+    "name": "Running Shorts",
+    "slug": "running-shorts",
+    "description": "Breathable quick-dry running shorts.",
+    "price": 24.99,
+    "category": "clothing",
+    "inventory": 60,
+    "lastUpdated": "2025-10-27T22:15:00.000Z"
+  },
+  {
+    "id": "14",
+    "name": "Water Bottle Insulated",
+    "slug": "water-bottle-insulated",
+    "description": "Stainless steel insulated water bottle 32oz.",
+    "price": 29.99,
+    "category": "fitness",
+    "inventory": 55,
+    "lastUpdated": "2025-10-27T21:30:00.000Z"
+  },
+  {
+    "id": "15",
+    "name": "Gaming Headset",
+    "slug": "gaming-headset",
+    "description": "Surround sound gaming headset with microphone.",
+    "price": 89.99,
+    "category": "audio",
+    "inventory": 30,
+    "lastUpdated": "2025-10-27T20:45:00.000Z"
+  },
+  {
+    "id": "16",
+    "name": "Webcam HD",
+    "slug": "webcam-hd",
+    "description": "1080p HD webcam with auto-focus.",
+    "price": 69.99,
+    "category": "electronics",
+    "inventory": 25,
+    "lastUpdated": "2025-10-27T20:00:00.000Z"
+  },
+  {
+    "id": "17",
+    "name": "Phone Stand Adjustable",
+    "slug": "phone-stand-adjustable",
+    "description": "Adjustable aluminum phone stand.",
+    "price": 19.99,
+    "category": "accessories",
+    "inventory": 75,
+    "lastUpdated": "2025-10-27T19:15:00.000Z"
+  },
+  {
+    "id": "18",
+    "name": "Wireless Charger Pad",
+    "slug": "wireless-charger-pad",
+    "description": "Fast wireless charging pad for smartphones.",
+    "price": 24.99,
+    "category": "accessories",
+    "inventory": 48,
+    "lastUpdated": "2025-10-27T18:30:00.000Z"
+  },
+  {
+    "id": "19",
+    "name": "Smart Light Bulb",
+    "slug": "smart-light-bulb",
+    "description": "Wi-Fi enabled RGB smart light bulb.",
+    "price": 14.99,
+    "category": "home",
+    "inventory": 90,
+    "lastUpdated": "2025-10-27T17:45:00.000Z"
+  },
+  {
+    "id": "20",
+    "name": "Air Purifier Compact",
+    "slug": "air-purifier-compact",
+    "description": "HEPA air purifier for small rooms.",
+    "price": 79.99,
+    "category": "home",
+    "inventory": 15,
+    "lastUpdated": "2025-10-27T17:00:00.000Z"
+  },
+  {
+    "id": "21",
+    "name": "Resistance Bands Set",
+    "slug": "resistance-bands-set",
+    "description": "Set of 5 resistance bands for home workouts.",
+    "price": 19.99,
+    "category": "fitness",
+    "inventory": 65,
+    "lastUpdated": "2025-10-27T16:15:00.000Z"
+  },
+  {
+    "id": "22",
+    "name": "Dumbbell Set",
+    "slug": "dumbbell-set",
+    "description": "Adjustable dumbbell set 5-25 lbs.",
+    "price": 119.99,
+    "category": "fitness",
+    "inventory": 10,
+    "lastUpdated": "2025-10-27T15:30:00.000Z"
+  },
+  {
+    "id": "23",
+    "name": "Laptop Stand",
+    "slug": "laptop-stand",
+    "description": "Ergonomic aluminum laptop stand.",
+    "price": 44.99,
+    "category": "accessories",
+    "inventory": 38,
+    "lastUpdated": "2025-10-27T14:45:00.000Z"
+  },
+  {
+    "id": "24",
+    "name": "USB-C Hub",
+    "slug": "usb-c-hub",
+    "description": "7-in-1 USB-C hub with HDMI and card reader.",
+    "price": 39.99,
+    "category": "electronics",
+    "inventory": 42,
+    "lastUpdated": "2025-10-27T14:00:00.000Z"
+  },
+  {
+    "id": "25",
+    "name": "Travel Pillow Memory Foam",
+    "slug": "travel-pillow-memory-foam",
+    "description": "Comfortable memory foam travel neck pillow.",
+    "price": 24.99,
+    "category": "travel",
+    "inventory": 33,
+    "lastUpdated": "2025-10-27T13:15:00.000Z"
+  },
+  {
+    "id": "26",
+    "name": "Portable Blender",
+    "slug": "portable-blender",
+    "description": "USB rechargeable portable blender for smoothies.",
+    "price": 34.99,
+    "category": "home",
+    "inventory": 27,
+    "lastUpdated": "2025-10-27T12:30:00.000Z"
+  },
+  {
+    "id": "27",
+    "name": "Sunglasses Polarized",
+    "slug": "sunglasses-polarized",
+    "description": "UV protection polarized sunglasses.",
+    "price": 29.99,
+    "category": "accessories",
+    "inventory": 52,
+    "lastUpdated": "2025-10-27T11:45:00.000Z"
+  },
+  {
+    "id": "28",
+    "name": "Smart Doorbell",
+    "slug": "smart-doorbell",
+    "description": "Wi-Fi video doorbell with motion detection.",
+    "price": 149.99,
+    "category": "home",
+    "inventory": 8,
+    "lastUpdated": "2025-10-27T11:00:00.000Z"
+  },
+  {
+    "id": "29",
+    "name": "Electric Toothbrush",
+    "slug": "electric-toothbrush",
+    "description": "Rechargeable electric toothbrush with timer.",
+    "price": 59.99,
+    "category": "personal care",
+    "inventory": 20,
+    "lastUpdated": "2025-10-27T10:15:00.000Z"
+  },
+  {
+    "id": "30",
+    "name": "Hair Dryer Professional",
+    "slug": "hair-dryer-professional",
+    "description": "Ionic hair dryer with multiple heat settings.",
+    "price": 49.99,
+    "category": "personal care",
+    "inventory": 18,
+    "lastUpdated": "2025-10-27T09:30:00.000Z"
+  },
+  {
+    "id": "31",
+    "name": "Kitchen Scale Digital",
+    "slug": "kitchen-scale-digital",
+    "description": "Precision digital kitchen scale up to 11 lbs.",
+    "price": 19.99,
+    "category": "home",
+    "inventory": 44,
+    "lastUpdated": "2025-10-27T08:45:00.000Z"
+  },
+  {
+    "id": "32",
+    "name": "Cutting Board Bamboo",
+    "slug": "cutting-board-bamboo",
+    "description": "Eco-friendly bamboo cutting board set.",
+    "price": 24.99,
+    "category": "home",
+    "inventory": 36,
+    "lastUpdated": "2025-10-27T08:00:00.000Z"
+  },
+  {
+    "id": "33",
+    "name": "Camping Tent 4-Person",
+    "slug": "camping-tent-4-person",
+    "description": "Waterproof 4-person camping tent.",
+    "price": 139.99,
+    "category": "outdoor",
+    "inventory": 12,
+    "lastUpdated": "2025-10-27T07:15:00.000Z"
+  },
+  {
+    "id": "34",
+    "name": "Sleeping Bag",
+    "slug": "sleeping-bag",
+    "description": "Lightweight sleeping bag for camping.",
+    "price": 49.99,
+    "category": "outdoor",
+    "inventory": 25,
+    "lastUpdated": "2025-10-27T06:30:00.000Z"
+  },
+  {
+    "id": "35",
+    "name": "Hiking Boots",
+    "slug": "hiking-boots",
+    "description": "Waterproof hiking boots with ankle support.",
+    "price": 119.99,
+    "category": "footwear",
+    "inventory": 16,
+    "lastUpdated": "2025-10-27T05:45:00.000Z"
+  },
+  {
+    "id": "36",
+    "name": "Backpacking Stove",
+    "slug": "backpacking-stove",
+    "description": "Compact portable camping stove.",
+    "price": 29.99,
+    "category": "outdoor",
+    "inventory": 30,
+    "lastUpdated": "2025-10-27T05:00:00.000Z"
+  },
+  {
+    "id": "37",
+    "name": "Bike Helmet",
+    "slug": "bike-helmet",
+    "description": "Adjustable bike helmet with LED safety light.",
+    "price": 39.99,
+    "category": "sports",
+    "inventory": 28,
+    "lastUpdated": "2025-10-27T04:15:00.000Z"
+  },
+  {
+    "id": "38",
+    "name": "Bicycle Lock",
+    "slug": "bicycle-lock",
+    "description": "Heavy-duty U-lock for bicycles.",
+    "price": 34.99,
+    "category": "sports",
+    "inventory": 40,
+    "lastUpdated": "2025-10-27T03:30:00.000Z"
+  },
+  {
+    "id": "39",
+    "name": "Tennis Racket",
+    "slug": "tennis-racket",
+    "description": "Professional tennis racket with carrying case.",
+    "price": 89.99,
+    "category": "sports",
+    "inventory": 14,
+    "lastUpdated": "2025-10-27T02:45:00.000Z"
+  },
+  {
+    "id": "40",
+    "name": "Soccer Ball",
+    "slug": "soccer-ball",
+    "description": "Official size 5 soccer ball.",
+    "price": 24.99,
+    "category": "sports",
+    "inventory": 50,
+    "lastUpdated": "2025-10-27T02:00:00.000Z"
+  },
+  {
+    "id": "41",
+    "name": "Test",
+    "slug": "test",
+    "description": "test",
+    "price": 24,
+    "category": "fitness",
+    "inventory": 3,
+    "lastUpdated": "2025-10-27T20:28:46.717Z"
+  },
+  {
+    "id": "42",
+    "name": "test",
+    "slug": "test",
+    "description": "test",
+    "price": 2,
+    "category": "fitness",
+    "inventory": 1,
+    "lastUpdated": "2025-10-27T20:56:35.417Z"
+  }
+]

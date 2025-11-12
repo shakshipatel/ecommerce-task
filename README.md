@@ -1,5 +1,9 @@
 # E-Commerce Sample (Next.js App Router)
 
+<p align="center">
+  <img src="./thumbnail.png" alt="Task Management Application Banner" width="100%" />
+</p>
+
 This repository is a small e-commerce-style demo that implements different Next.js rendering strategies (SSG, ISR, SSR, Client-side) and provides simple API routes backed by a JSON file.
 
 Author: Shakshi Patel
